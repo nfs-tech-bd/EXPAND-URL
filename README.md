@@ -8,3 +8,17 @@ See The Real Link Behind The Shortlink Easily.
 
 ## Termux Commands
 
+
+* `apt update`
+
+* `apt upgrade`
+
+* `pkg install curl`
+
+* `pkg install git`
+
+* `git clone http://github.com/nfs-tech-bd/EXPAND-URL`
+
+* `cd EXPAND-URL`
+
+* `python2 EXPAND-URL.sh`
