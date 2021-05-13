@@ -21,4 +21,4 @@ See The Real Link Behind The Shortlink Easily.
 
 * `cd EXPAND-URL`
 
-* `python2 EXPAND-URL.sh`
+* `bash EXPAND-URL.sh`
